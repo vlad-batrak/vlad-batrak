@@ -45,7 +45,7 @@
 ## Work Experience:
 - _march 2019 - current_  <br>
   **Database Reliability Engineer, System Administrator, Buisness Automatizator (freelancer)** <br>
-  Support and maintenance of the old site on 1C-Bitrix, development of a new site from scratch also on 1C-Bitrix. Administration of about 8-10 servers with 1C:Enterprise and BAS, automation of database backups.
+  Support and maintenance of the legacy site on 1C-Bitrix, development of a new 1C-Bitrix site from scratch. Administration about 8-10 servers with 1C:Enterprise and BAS, automation of database backups.
 - _april 2017 - october 2018_ <br>
   **System Administrator, Software Engineer** <br>
   _**Ukrainian Railways, Donetsk regional department of Energy supply filial agency**_ <br>
