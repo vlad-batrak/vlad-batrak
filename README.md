@@ -76,7 +76,7 @@
 - 30.10.2023 - "Highly Available Web Applications Digital Tech U Course", IT4Skills & Amazon Web Services Inc.
 - 03.02.2024 - "AWS Certified Solutions Architect - Associate", Amazon Web Services Inc. [verification](https://aws.amazon.com/verification)
 - 31.03.2024 - "Develop your career with Google Cloud", Google Cloud Ukraine [verification](https://www.cloudskillsboost.google/public_profiles/1a11171d-1a4d-4949-8559-3a6a348b16b8)
-- 30.05.2024 - "Basics of DevOps and Kubernetes. Practical intensive" [verification](https://certs.prometheus.org.ua/downloads/c8e164bc53354339a34faecba9f5ea52/Certificate.pdf)
+- 30.05.2024 - "Basics of DevOps and Kubernetes. Practical intensive", Prometheus & GlobalLogic (by Denys Vasyliev) [verification](https://certs.prometheus.org.ua/downloads/c8e164bc53354339a34faecba9f5ea52/Certificate.pdf)
 
 ## Language skills:
 - Russian, Ukrainian – fluent
